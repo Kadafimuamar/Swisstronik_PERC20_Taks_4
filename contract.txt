@@ -1,0 +1,2 @@
+0xC757DDa65b8078195070507Cc68332046Df5DF7e
+tx : https://explorer-evm.testnet.swisstronik.com/tx/0xb8faafc8b76218bf8c5d38ff8bc7f3b8855ee55e51e8d9a7923a072affde8b0a
